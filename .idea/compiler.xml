@@ -9,8 +9,5 @@
         <module name="actormodel-primenumber" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="actormodel-primenumber" target="17" />
-    </bytecodeTargetLevel>
   </component>
 </project>
